@@ -1,4 +1,0 @@
-MyPlayground
-============
-
-QA Testing Frameworks
